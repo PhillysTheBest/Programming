@@ -1,0 +1,7 @@
+clear X;
+incr X;
+incr X;
+incr X;
+while X not 1 do;
+   decr X;
+end;

@@ -1,0 +1,1 @@
+In this project, I learned about the implementation of a simple interpreter for command processing, focusing on variable manipulation and loop handling. Initially, I incorporated a stack to manage nested loops but discovered that a straightforward approach without it enhanced clarity and efficiency. In the future I hope improve this or do it another language, hopefully C++!!
