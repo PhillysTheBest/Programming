@@ -42,7 +42,7 @@ public class barebones {
 
             // Continue looping until the variable equals the target value
             while (getValue(variable) != targetValue) {
-                commandIndex = loopStartIndex ++; // Move past the "while" line each iteration
+                commandIndex = loopStartIndex + 1; // Move past the "while" line each iteration
 
                 while (commandIndex < commandList.length) {
                     String line = commandList[commandIndex].trim();
